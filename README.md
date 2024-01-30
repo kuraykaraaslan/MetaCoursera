@@ -19,7 +19,7 @@ The primary goal of this repository is to showcase my learning journey, track pr
 
 ## Practice Exercises
 
-Practice exercises are organized under the corresponding Certificate Program:
+Practice exercises are organized under the corresponding Certificate Programs.
 
 
 ### Getting Started
