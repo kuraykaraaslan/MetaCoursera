@@ -4,8 +4,7 @@ import { faCalendarAlt, faClock } from "@fortawesome/free-solid-svg-icons";
 
 const Reservation = () => {
     return (
-        <section className="text-gray-700 body-font relative bg-yellow-500 bg-opacity-30"
-         >
+        <section className="text-gray-700 body-font bg-yellow-500 bg-opacity-30 min-h-screen">
             <div className="container px-5 py-12 mx-auto flex sm:flex-nowrap flex-wrap">
                 <div className="lg:w-2/4 md:w-1/3 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
                     <iframe width="100%" height="100%" className="absolute inset-0" frameBorder="0" title="map" marginHeight={0} marginWidth={0} scrolling="no"
