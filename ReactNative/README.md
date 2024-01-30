@@ -1,10 +1,10 @@
 ![Meta & Coursera](/static/meta.png)
 
-# Meta Front-End Developer Professional Certificate Program
+# Meta React Native Specialization
 
-Welcome to my Meta Front-End Developer Professional Certificate repository! This repository is a comprehensive collection of all the projects and practice exercises undertaken during my course journey. As I progress through the program, each project and practice session is meticulously organized into dedicated folders within this repository.
+Welcome to my Meta React Native Specialization repository! This repository is a comprehensive collection of all the projects and practice exercises undertaken during my course journey. As I progress through the program, each project and practice session is meticulously organized into dedicated folders within this repository.
 
-[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) 
+[Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native) 
 
 ## Purpose
 

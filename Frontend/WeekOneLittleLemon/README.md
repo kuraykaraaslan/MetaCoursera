@@ -2,9 +2,9 @@
 
 Little Lemon is a restaurant website built with React and Tailwind CSS.
 
-![Little Lemon](/WeekOneLittleLemon/static/screenshot.png)
+![Little Lemon](/Frontend/WeekOneLittleLemon/static/screenshot.png)
 
-![Little Lemon Menu](/WeekOneLittleLemon/static/menu.png)
+![Little Lemon Menu](/Frontend/WeekOneLittleLemon/static/menu.png)
 
 ## Meta Front-End Developer Professional Certificate Program Week One Practice Exercise
 
