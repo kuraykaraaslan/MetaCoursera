@@ -4,12 +4,12 @@
 
 Welcome to my Meta Professional Certificate repository! This repository is a comprehensive collection of all the projects and practice exercises undertaken during my course journey. As I progress through the program, each project and practice session is meticulously organized into dedicated folders within this repository.
 
-![Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) 
-![Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-Back-end-developer) 
-![Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer) 
-![Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer) 
-![Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer) 
-![Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native) 
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) 
+- [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-Back-end-developer) 
+- [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer) 
+- [Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer) 
+- [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer) 
+- [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native) 
 
 
 
