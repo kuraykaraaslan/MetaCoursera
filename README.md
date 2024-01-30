@@ -1,4 +1,4 @@
-![Meta & Coursera](/static/logo.png)
+![Meta & Coursera](/static/meta.png)
 
 # Meta Front-End Developer Professional Certificate Program
 
