@@ -1,4 +1,4 @@
-![patika.dev](/static/logo.png)
+![Meta & Coursera](/static/logo.png)
 
 # Meta Front-End Developer Professional Certificate Program
 
