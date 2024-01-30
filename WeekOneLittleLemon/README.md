@@ -1,6 +1,6 @@
 # Litte Lemon Restaurant 🍋
 
-![Little Lemon](WeekOneLittleLemon/static/screenshot.png)
+![Little Lemon](/WeekOneLittleLemon/static/screenshot.png)
 
 ## Meta Front-End Developer Professional Certificate Program Week One Practice Exercise
 
