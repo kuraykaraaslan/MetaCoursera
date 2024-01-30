@@ -18,8 +18,6 @@ Weekly practice exercises are organized chronologically:
 - [Little Lemon](https://github.com/kuraykaraaslan/MetaFrontendCertificate/tree/main/WeekOneLittleLemon)
 
 
-## Week Eight
-
 
 ### Getting Started
 
