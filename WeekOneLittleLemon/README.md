@@ -1,5 +1,7 @@
 # Litte Lemon Restaurant 🍋
 
+Little Lemon is a restaurant website built with React and Tailwind CSS.
+
 ![Little Lemon](/WeekOneLittleLemon/static/screenshot.png)
 
 ![Little Lemon Menu](/WeekOneLittleLemon/static/menu.png)
